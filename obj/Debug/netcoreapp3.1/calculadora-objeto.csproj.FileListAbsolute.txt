@@ -1,0 +1,26 @@
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/bin/Debug/netcoreapp3.1/calculadora-objeto
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/bin/Debug/netcoreapp3.1/calculadora-objeto.deps.json
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/bin/Debug/netcoreapp3.1/calculadora-objeto.runtimeconfig.json
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/bin/Debug/netcoreapp3.1/calculadora-objeto.runtimeconfig.dev.json
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/bin/Debug/netcoreapp3.1/calculadora-objeto.dll
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/bin/Debug/netcoreapp3.1/calculadora-objeto.pdb
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/obj/Debug/netcoreapp3.1/calculadora-objeto.csprojAssemblyReference.cache
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/obj/Debug/netcoreapp3.1/calculadora-objeto.AssemblyInfoInputs.cache
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/obj/Debug/netcoreapp3.1/calculadora-objeto.AssemblyInfo.cs
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/obj/Debug/netcoreapp3.1/calculadora-objeto.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/obj/Debug/netcoreapp3.1/calculadora-objeto.dll
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/obj/Debug/netcoreapp3.1/calculadora-objeto.pdb
+/home/klaathus/Documents/DS2/Aula2 - 11.08/calculadora-objeto/obj/Debug/netcoreapp3.1/calculadora-objeto.genruntimeconfig.cache
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\bin\Debug\netcoreapp3.1\calculadora-objeto.exe
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\bin\Debug\netcoreapp3.1\calculadora-objeto.deps.json
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\bin\Debug\netcoreapp3.1\calculadora-objeto.runtimeconfig.json
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\bin\Debug\netcoreapp3.1\calculadora-objeto.runtimeconfig.dev.json
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\bin\Debug\netcoreapp3.1\calculadora-objeto.dll
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\bin\Debug\netcoreapp3.1\calculadora-objeto.pdb
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\obj\Debug\netcoreapp3.1\calculadora-objeto.csprojAssemblyReference.cache
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\obj\Debug\netcoreapp3.1\calculadora-objeto.AssemblyInfoInputs.cache
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\obj\Debug\netcoreapp3.1\calculadora-objeto.AssemblyInfo.cs
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\obj\Debug\netcoreapp3.1\calculadora-objeto.csproj.CoreCompileInputs.cache
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\obj\Debug\netcoreapp3.1\calculadora-objeto.dll
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\obj\Debug\netcoreapp3.1\calculadora-objeto.pdb
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 2 - 11.08\calculadora-objeto\obj\Debug\netcoreapp3.1\calculadora-objeto.genruntimeconfig.cache
